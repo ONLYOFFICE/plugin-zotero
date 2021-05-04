@@ -51,7 +51,7 @@ Two installation ways are available:
     ```
 **Important**: when you integrate ONLYOFFICE Document Server with a 3rd-party storage, you need to use special connectors (integration apps). If you compile a connector from source code or create a new one, you can add plugins using Document Server config. If you use ready connectors (e.g. from ownCloud/Nextcloud marketplaces) adding plugins via config is not applicable.
 
-# How to install to desktop
+## How to install to desktop
 
 * Archive the plugin files (the archive must contain config.json, index.html, and pluginCode.js).
 * Change the file extension to .plugin.
