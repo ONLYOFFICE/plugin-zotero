@@ -1,3 +1,7 @@
+## Information
+
+This repository is an archive of plugin-zotero. Now it moved to the marketplace repository [onlyoffice.github.io](https://github.com/ONLYOFFICE/onlyoffice.github.io/tree/master/sdkjs-plugins/content).
+
 # ONLYOFFICE Zotero plugin
 
 Zotero plugin allows users to create bibliographies in ONLYOFFICE editors using Zotero service.
